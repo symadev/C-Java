@@ -1,9 +1,11 @@
 #include <iostream>
+
 using namespace std;
 
 int main() {
-    int a, b;
-    cin >> a >> b;
-    cout << "Sum = " << a + b;
+    int b, c;
+    cin >> b >> c ;
+    
+    cout << "Sum = " << b + c;
     return 0;
 }
